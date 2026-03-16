@@ -82,7 +82,7 @@ src/
 |   ├── App.css
 |   ├── Appearance.module.css
 |   ├── Identity.module.css
-|   └── Stoly.module.css
+|   └── Story.module.css
 ├── main.jsx
 └── App.jsx
 ```
