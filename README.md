@@ -4,6 +4,8 @@ _Give them a soul. Give them a wound. Give them a name._
 
 An AI-powered narrative design tool for writers, game designers, and storytellers. Fill in your character's identity, appearance, and psychological profile - and let AI forge a complete character bible in the tone of a dark literary author.
 
+Preview Link: https://character-bible-generator-obqv1gy5j-salemgodfreys-projects.vercel.app/
+
 ## ✨ Features
 
 - **AI-generated character bibles** via Google Gemini
